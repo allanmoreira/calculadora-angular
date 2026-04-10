@@ -3,32 +3,22 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 .kotlin
-
-### Eclipse ###
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
-.sts4-cache
-bin/
-!**/src/main/**/bin/
-!**/src/test/**/bin/
-
-### NetBeans ###
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
-
-### VS Code ###
-.vscode/
-
-### Mac OS ###
-.DS_Store
-
-### IntelliJ ###
-*.iml
 .idea/
+*.iml
+
+### Angular ###
+/node_modules
+/dist
+/tmp
+/out-tsc
+/out-tsc-e2e
+/.angular/cache
+/.angular/cli.json
+/.angular.json
+/.editorconfig
+/.eslintignore
+/.eslintrc
+/.prettierignore
+/.prettierrc
+/.stylelintrc
+/.vscode
