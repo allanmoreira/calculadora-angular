@@ -1,5 +1,7 @@
 # CalculadoraAngular
 
+Calculadora que faz a soma de dois valores e apresenta o resultado.
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.2.7.
 
 ## Development server
